@@ -1,0 +1,39 @@
+div{
+    position: sticky;
+    top: 20px;
+}
+
+dt{
+    background-color: burlywood;
+    border: 2px solid chartreuse;
+    margin: 20px;
+    font-size: 2rem;
+}
+h1{
+    border: 2px solid brown;
+    background-color: yellow;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 650px;
+    margin-right: 620px;
+
+}
+
+dd {
+  
+    margin: 10px;
+    padding: 0 0 0 12px;
+    white-space: nowrap;
+  }
+
+* {
+    box-sizing: border-box;
+  }
+
+  dl > div {
+    background: #FFF;
+    padding: 24px 0 0 0;
+  }
+  dd + dd {
+    border-top: 1px solid #CCC;
+  }
