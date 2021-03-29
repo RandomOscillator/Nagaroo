@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    width: 481px;
+    border: 2px solid #ccc;
+    margin: 50px auto;
+    padding: 5px;
+}
+.add
+{
+    width:105px;
+}
+
+ul{
+    list-style:none;
+
+}
+
+li{
+    border:1px solid gray;
+    padding:5px;
+    cursor:pointer
+}
+
+.del
+{
+    margin:65px auto;
+    width:481px;
+}
+.ed
+{
+    margin:65px auto;
+    width:481px;
+}
